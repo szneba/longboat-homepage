@@ -1,24 +1,7 @@
 # longboat-homepage
 
-## Project setup
-```
-yarn install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Longboat homepage mock created with Vue.js 3
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Live Demo](https://szneba.github.io/longboat-homepage/)
